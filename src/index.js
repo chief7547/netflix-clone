@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const header = document.querySelector(".js-header"),
   video = document.querySelector(".js-video"),
   muteBtn = document.querySelector(".js-muteBtn"),
@@ -78,6 +77,3 @@ playBtn.addEventListener("click", handlePlayBtnClick);
 range.addEventListener("change", handleRangeChange);
 window.addEventListener("scroll", handleScroll);
 loadMutePreference();
-=======
-import "./styles.css";
->>>>>>> 3094cd41e994ccfe7cfded1860574bb0e326e39d
